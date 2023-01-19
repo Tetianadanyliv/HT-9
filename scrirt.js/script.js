@@ -20,9 +20,9 @@ function getRandomColor() {
 function generateSquare() {
   if (!isGenerated) {
     createBoxElement();
+    getBlockInterval();
     isGenerated = true;
   }
-  getBlockInterval();
 }
 
 function getBlockInterval() {
