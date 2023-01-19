@@ -1,0 +1,35 @@
+.btn {
+  background-color: rgb(252, 192, 239);
+  border-radius: 5%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 250px;
+  height: 50px;
+  border-color: rgb(252, 192, 239);
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
+  
+  
+}
+.container {
+    width: 250px;
+  height: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  margin-top: 50px;
+
+}
+
+.box {
+    width: 50px;
+  height: 50px;
+  display: block;
+ 
+  border-color: black;
+}
