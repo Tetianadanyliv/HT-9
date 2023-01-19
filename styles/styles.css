@@ -6,6 +6,7 @@
   margin: 0 auto;
   width: 250px;
   height: 50px;
+
   border-color: rgb(252, 192, 239);
   justify-content: center;
   text-align: center;
@@ -30,6 +31,6 @@
     width: 50px;
   height: 50px;
   display: block;
- 
+ border-radius: 50%;
   border-color: black;
 }
